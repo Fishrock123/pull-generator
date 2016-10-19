@@ -1,0 +1,31 @@
+{
+  "name": "pull-generator",
+  "version": "1.0.0",
+  "description": "Create a Pull Stream from a Generator.",
+  "main": "index.js",
+  "dependencies": {
+    "pull-stream-spec": "^0.0.3",
+    "tape": "^4.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test-spec.js"
+  },
+  "keywords": [
+    "pull",
+    "stream",
+    "pull",
+    "stream",
+    "generator"
+  ],
+  "author": "Jeremiah Senkpiel <fishrock123@rocketmail.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fishrock123/pull-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fishrock123/pull-generator/issues"
+  },
+  "homepage": "https://github.com/Fishrock123/pull-generator#readme"
+}
